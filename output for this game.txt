@@ -1,0 +1,13 @@
+Welcome to the number guessing game!
+Guess a number between 1 and 100:
+
+1
+Your guess is too low. Try again:
+2
+Your guess is too low. Try again:
+3
+Your guess is too low. Try again:
+4
+Congratulations, you guessed the number!
+
+Process finished with exit code 0
